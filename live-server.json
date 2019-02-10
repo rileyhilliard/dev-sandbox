@@ -1,0 +1,10 @@
+{
+	"port": 8181,
+	"host": "0.0.0.0",
+	"root": "/public",
+	"open": false,
+	"ignore": "node_modules",
+	"file": "index.html",
+	"wait": 100,
+	"mount": [["/components", "./node_modules"]]
+}
